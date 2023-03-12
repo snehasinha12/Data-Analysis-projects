@@ -16,7 +16,7 @@ A total of 12 datasets have been made available for each month starting from Apr
 Documentation, Cleaning and Preparation of data for analysis
 The combined size of all the 12 datasets is close to 600 MB. Data cleaning in spreadsheets will be time-consuming and slow compared to SQL or R. I am choosing R simply because I could do both data wrangling and analysis/ visualizations in the same platform. It is also an opportunity for me to learn R better.
 
-2.Bellabeat Case Study with R
+2. Bellabeat Case Study with R
 About a company
 Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company
 
